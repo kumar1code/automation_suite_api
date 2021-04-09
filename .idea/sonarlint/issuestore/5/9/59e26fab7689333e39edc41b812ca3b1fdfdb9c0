@@ -1,0 +1,275 @@
+
+^	java:S125 "<This block of commented-out lines of code should be removed.(é½Ğ…úÿÿÿÿ8ÎàØ…Á.
+g
+java:S1192’"IDefine a constant instead of duplicating this literal "hh.mm aa" 8 times.(¾ÌÇ8ÎàØ…Á.
+c	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(î‹µ8ÎàØ…Á.
+V	java:S106ì"9Replace this use of System.out or System.err by a logger.(÷ ÷‡8ÎàØ…Á.
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(†–£„ıÿÿÿÿ8ÎàØ…Á.
+F
+java:S1481Ş"(Remove this unused "exc" local variable.(à8ÎàØ…Á.
+Š
+java:S1130¿"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ó¯£·8ÎàØ…Á.
+U
+java:S1854“"7Remove this useless assignment to local variable "exc".(à8ÎàØ…Á.
+>
+java:S1659"!Declare "a13" on a separate line.(İÀ®‡8ÎàØ…Á.
+F
+java:S1481¶"(Remove this unused "exc" local variable.(à8ÎàØ…Á.
+=
+java:S1659" Declare "a2" on a separate line.(İÀ®‡8ÎàØ…Á.
+U	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(”½[8ÎàØ…Á.
+p
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(¹ÇÎ8ÎàØ…Á.
+[	java:S106Ø"9Replace this use of System.out or System.err by a logger.(Ò¶Œéúÿÿÿÿ8ÎàØ…Á.
+>
+java:S1659"!Declare "a11" on a separate line.(İÀ®‡8ÎàØ…Á.
+n	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÑŠô8ÎàØ…Á.
+^	java:S125´"<This block of commented-out lines of code should be removed.(ÏøŠÿşÿÿÿÿ8ÎàØ…Á.
+F
+java:S1481"(Remove this unused "exc" local variable.(à8ÎàØ…Á.
+>
+java:S1659"!Declare "a26" on a separate line.(İÀ®‡8ÎàØ…Á.
+}
+java:S1192ı"_Define a constant instead of duplicating this literal "Failed with HTTP error code : " 3 times.(Ñûçú8ÎàØ…Á.
+^	java:S125"<This block of commented-out lines of code should be removed.(ÏøŠÿşÿÿÿÿ8ÎàØ…Á.
+^	java:S125»"<This block of commented-out lines of code should be removed.(Üÿ©ìúÿÿÿÿ8ÎàØ…Á.
+U
+java:S1854ı"7Remove this useless assignment to local variable "exc".(à8ÎàØ…Á.
+]	java:S125t"<This block of commented-out lines of code should be removed.(ıœóÉüÿÿÿÿ8ÎàØ…Á.
+>
+java:S1659"!Declare "a10" on a separate line.(İÀ®‡8ÎàØ…Á.
+Q
+java:S1481¬".Remove this unused "response1" local variable.(êÙŞ¿üÿÿÿÿ8ÎàØ…Á.
+^	java:S125‹"<This block of commented-out lines of code should be removed.(ÏøŠÿşÿÿÿÿ8ÎàØ…Á.
+c	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(ı½‹¿8ÎàØ…Á.
+u
+java:S1192±"WDefine a constant instead of duplicating this literal "Daily Automation Suite" 8 times.(Ã±íÚ8ÎàØ…Á.
+F
+java:S1659"$Declare "count2" on a separate line.(Àğ¾øøÿÿÿÿ8ÎàØ…Á.
+X	java:S125T"<This block of commented-out lines of code should be removed.(§ÚÊú8ÎàØ…Á.
+c	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(ÃÂ€ó8ÎàØ…Á.
+c	java:S112ı"FDefine and throw a dedicated exception instead of using a generic one.(Ñûçú8ÎàØ…Á.
+Q
+java:S1481ª".Remove this unused "response1" local variable.(êÙŞ¿üÿÿÿÿ8ÎàØ…Á.
+c	java:S112ê"FDefine and throw a dedicated exception instead of using a generic one.(¹ÇÎ8ÎàØ…Á.
+>
+java:S1659"!Declare "a27" on a separate line.(İÀ®‡8ÎàØ…Á.
+Q
+java:S1481€".Remove this unused "response1" local variable.(êÙŞ¿üÿÿÿÿ8ÎàØ…Á.
+l
+java:S2095ğ"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(°÷Íêşÿÿÿÿ8ÎàØ…Á.
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(ò¨çÿÿÿÿÿ8ÎàØ…Á.
+=
+java:S1659" Declare "a6" on a separate line.(İÀ®‡8ÎàØ…Á.
+^	java:S125í"<This block of commented-out lines of code should be removed.(ÏøŠÿşÿÿÿÿ8ÎàØ…Á.
+V	java:S106ß"9Replace this use of System.out or System.err by a logger.(­Ÿ“Â8ÎàØ…Á.
+n
+java:S2095b"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ8ÎàØ…Á.
+N
+java:S1481˜"0Remove this unused "myResponse5" local variable.(¡›Ø¡8ÎàØ…Á.
+h	java:S112ã"FDefine and throw a dedicated exception instead of using a generic one.(ºßÆõúÿÿÿÿ8ÎàØ…Á.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(âªó½8ÎàØ…Á.
+h	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.( °ÿùÿÿÿÿ8ÎàØ…Á.
+>
+java:S1659"!Declare "a22" on a separate line.(İÀ®‡8ÎàØ…Á.
+X
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+>
+java:S1659"!Declare "a25" on a separate line.(İÀ®‡8ÎàØ…Á.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(­Ÿ“Â8ÎàØ…Á.
+^	java:S125å"<This block of commented-out lines of code should be removed.(ÏøŠÿşÿÿÿÿ8ÎàØ…Á.
+>
+java:S1659"!Declare "a18" on a separate line.(İÀ®‡8ÎàØ…Á.
+>
+java:S1659"!Declare "a15" on a separate line.(İÀ®‡8ÎàØ…Á.
+V	java:S106Å"9Replace this use of System.out or System.err by a logger.(ââš˜8ÎàØ…Á.
+b
+java:S1854º"?Remove this useless assignment to local variable "myResponse3".(áŞí‹şÿÿÿÿ8ÎàØ…Á.
+Š
+java:S1130¹"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ı½‹¿8ÎàØ…Á.
+U
+java:S1854£"7Remove this useless assignment to local variable "exc".(à8ÎàØ…Á.
+X
+java:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+F
+java:S1481ë"(Remove this unused "exc" local variable.(à8ÎàØ…Á.
+m
+java:S1192Ä"JDefine a constant instead of duplicating this literal "errortype" 3 times.(õÂÿğÿÿÿÿÿ8ÎàØ…Á.
+h
+java:S1192·"KDefine a constant instead of duplicating this literal "totalCount" 4 times.(¥†”8ÎàØ…Á.
+=
+java:S1659" Declare "a4" on a separate line.(İÀ®‡8ÎàØ…Á.
+V	java:S106¯"9Replace this use of System.out or System.err by a logger.(›ç¨É8ÎàØ…Á.
+^	java:S125Ï"<This block of commented-out lines of code should be removed.(ı°À¨üÿÿÿÿ8ÎàØ…Á.
+n	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áö»€8ÎàØ…Á.
+>
+java:S1659"!Declare "a12" on a separate line.(İÀ®‡8ÎàØ…Á.
+f
+java:S2095†"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(»°Ş8ÎàØ…Á.
+K
+java:S1481Î".Remove this unused "response3" local variable.(½ö¬;8ÎàØ…Á.
+F
+java:S1481£"(Remove this unused "exc" local variable.(à8ÎàØ…Á.
+V	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ä±ãÓ8ÎàØ…Á.
+X
+java:S1141Ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+V	java:S106ş"9Replace this use of System.out or System.err by a logger.(Ó—šÂ8ÎàØ…Á.
+h	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(Ğ²«Ñøÿÿÿÿ8ÎàØ…Á.
+^	java:S125®"<This block of commented-out lines of code should be removed.(©Õ•­øÿÿÿÿ8ÎàØ…Á.
+N
+java:S1481ò"0Remove this unused "myResponse7" local variable.(¬äéé8ÎàØ…Á.
+n
+java:S1192Ä"PDefine a constant instead of duplicating this literal "Zero data issue" 8 times.(ï©†‘8ÎàØ…Á.
+^	java:S125¥"<This block of commented-out lines of code should be removed.(„ßÈãüÿÿÿÿ8ÎàØ…Á.
+F
+java:S1659"$Declare "count1" on a separate line.(Àğ¾øøÿÿÿÿ8ÎàØ…Á.
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(»¡£ì8ÎàØ…Á.
+U
+java:S1854Ä"7Remove this useless assignment to local variable "exc".(à8ÎàØ…Á.
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(›ç¨É8ÎàØ…Á.
+U
+java:S1854â"7Remove this useless assignment to local variable "exc".(à8ÎàØ…Á.
+F
+java:S1481Ä"(Remove this unused "exc" local variable.(à8ÎàØ…Á.
+=
+java:S1659" Declare "a3" on a separate line.(İÀ®‡8ÎàØ…Á.
+c	java:S112Å"FDefine and throw a dedicated exception instead of using a generic one.(øë‹ğ8ÎàØ…Á.
+t
+java:S1192¡"VDefine a constant instead of duplicating this literal "(yyyy-MM-dd HH-mm-ss)" 4 times.(½ò½œ8ÎàØ…Á.
+>
+java:S1659"!Declare "a19" on a separate line.(İÀ®‡8ÎàØ…Á.
+^	java:S125ó"<This block of commented-out lines of code should be removed.(Üÿ©ìúÿÿÿÿ8ÎàØ…Á.
+>
+java:S1659"!Declare "a21" on a separate line.(İÀ®‡8ÎàØ…Á.
+^	java:S125‰"<This block of commented-out lines of code should be removed.(·¾äŞşÿÿÿÿ8ÎàØ…Á.
+^	java:S125“"<This block of commented-out lines of code should be removed.(ªŞÎÜüÿÿÿÿ8ÎàØ…Á.
+h	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(ò²Ó»ıÿÿÿÿ8ÎàØ…Á.
+>
+java:S1659"!Declare "a23" on a separate line.(İÀ®‡8ÎàØ…Á.
+X
+java:S1141®"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+X
+java:S1141§"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+^	java:S125Ë"<This block of commented-out lines of code should be removed.(¸Ãß‘øÿÿÿÿ8ÎàØ…Á.
+c	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(Ñûçú8ÎàØ…Á.
+[	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(†–£„ıÿÿÿÿ8ÎàØ…Á.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Ë›–ÿ8ÎàØ…Á.
+]
+java:S1854ò"?Remove this useless assignment to local variable "myResponse7".(¬äéé8ÎàØ…Á.
+X
+java:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+Š
+java:S1130Å"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(øë‹ğ8ÎàØ…Á.
+U
+java:S1854Ë"7Remove this useless assignment to local variable "exc".(à8ÎàØ…Á.
+X
+java:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+f
+java:S2095£"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(öƒÛÌ8ÎàØ…Á.
+w
+java:S1192¼"TDefine a constant instead of duplicating this literal "Response Time Issue" 8 times.(Ùµüİúÿÿÿÿ8ÎàØ…Á.
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(›ç¨É8ÎàØ…Á.
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(ŒœÓŠúÿÿÿÿ8ÎàØ…Á.
+`
+java:S1854ª"=Remove this useless assignment to local variable "response1".(êÙŞ¿üÿÿÿÿ8ÎàØ…Á.
+
+java:S1130×"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ò²Ó»ıÿÿÿÿ8ÎàØ…Á.
+=
+java:S1659" Declare "a8" on a separate line.(İÀ®‡8ÎàØ…Á.
+F
+java:S1481â"(Remove this unused "exc" local variable.(à8ÎàØ…Á.
+Q
+java:S1481".Remove this unused "response1" local variable.(êÙŞ¿üÿÿÿÿ8ÎàØ…Á.
+^	java:S125Ö"<This block of commented-out lines of code should be removed.(ÏøŠÿşÿÿÿÿ8ÎàØ…Á.
+^	java:S125•"<This block of commented-out lines of code should be removed.(©ïñİúÿÿÿÿ8ÎàØ…Á.
+]
+java:S1854˜"?Remove this useless assignment to local variable "myResponse5".(¡›Ø¡8ÎàØ…Á.
+>
+java:S1659"!Declare "a24" on a separate line.(İÀ®‡8ÎàØ…Á.
+k
+java:S2095Õ"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ƒ»õûÿÿÿÿ8ÎàØ…Á.
+c	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(ª’Üø8ÎàØ…Á.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(é™§¤ûÿÿÿÿ8ÎàØ…Á.
+Š
+java:S1130Ë"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(î‹µ8ÎàØ…Á.
+X
+java:S1141ƒ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+X	java:S125–"<This block of commented-out lines of code should be removed.( åóM8ÎàØ…Á.
+S
+java:S1481º"0Remove this unused "myResponse3" local variable.(áŞí‹şÿÿÿÿ8ÎàØ…Á.
+^	java:S125º"<This block of commented-out lines of code should be removed.(ÏøŠÿşÿÿÿÿ8ÎàØ…Á.
+F
+java:S1481«"(Remove this unused "exc" local variable.(à8ÎàØ…Á.
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(â¼‘šùÿÿÿÿ8ÎàØ…Á.
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(­Ÿ“Â8ÎàØ…Á.
+U
+java:S1854ë"7Remove this useless assignment to local variable "exc".(à8ÎàØ…Á.
+>
+java:S1659"!Declare "a16" on a separate line.(İÀ®‡8ÎàØ…Á.
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(†–£„ıÿÿÿÿ8ÎàØ…Á.
+^	java:S125ƒ"<This block of commented-out lines of code should be removed.(ÏøŠÿşÿÿÿÿ8ÎàØ…Á.
+V	java:S106â"9Replace this use of System.out or System.err by a logger.(›ç¨É8ÎàØ…Á.
+X
+java:S1141Ù"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+h	java:S112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(óû˜”ıÿÿÿÿ8ÎàØ…Á.
+>
+java:S1659"!Declare "a17" on a separate line.(İÀ®‡8ÎàØ…Á.
+<
+java:S1659"Declare "v" on a separate line.(İÀ®‡8ÎàØ…Á.
+
+java:S1130Ñ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(óû˜”ıÿÿÿÿ8ÎàØ…Á.
+U	java:S106ã"9Replace this use of System.out or System.err by a logger.(¯¥â8ÎàØ…Á.
+^	java:S125ì"<This block of commented-out lines of code should be removed.(ÏøŠÿşÿÿÿÿ8ÎàØ…Á.
+F
+java:S1481Ë"(Remove this unused "exc" local variable.(à8ÎàØ…Á.
+
+java:S1130İ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.( °ÿùÿÿÿÿ8ÎàØ…Á.
+^	java:S125Í"<This block of commented-out lines of code should be removed.(‘©Âÿÿÿÿÿ8ÎàØ…Á.
+F
+java:S1481“"(Remove this unused "exc" local variable.(à8ÎàØ…Á.
+X
+java:S1141ï"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+n
+java:S1192"KDefine a constant instead of duplicating this literal "yyyy-dd-MM" 8 times.(‹ô¥Şÿÿÿÿÿ8ÎàØ…Á.
+X
+java:S1141·"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+F
+java:S1481ı"(Remove this unused "exc" local variable.(à8ÎàØ…Á.
+c	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(ó¯£·8ÎàØ…Á.
+=
+java:S1659" Declare "a1" on a separate line.(İÀ®‡8ÎàØ…Á.
+f
+java:S1192¤"HDefine a constant instead of duplicating this literal "\nTime:" 4 times.(”è‹8ÎàØ…Á.
+o
+java:S1192¬"QDefine a constant instead of duplicating this literal "Request Timeout" 11 times.(­Ÿ“Â8ÎàØ…Á.
+]	java:S125P"<This block of commented-out lines of code should be removed.(¿ÎßÜıÿÿÿÿ8ÎàØ…Á.
+U
+java:S1854¶"7Remove this useless assignment to local variable "exc".(à8ÎàØ…Á.
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(ÜúÙîıÿÿÿÿ8ÎàØ…Á.
+V	java:S106¤"9Replace this use of System.out or System.err by a logger.(èëû§8ÎàØ…Á.
+X	java:S125"<This block of commented-out lines of code should be removed.(Õ››8ÎàØ…Á.
+>
+java:S1659"!Declare "a20" on a separate line.(İÀ®‡8ÎàØ…Á.
+=
+java:S1659" Declare "a7" on a separate line.(İÀ®‡8ÎàØ…Á.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(é™§¤ûÿÿÿÿ8ÎàØ…Á.
+^	java:S125¤"<This block of commented-out lines of code should be removed.(ÏøŠÿşÿÿÿÿ8ÎàØ…Á.
+p
+java:S1192s"NDefine a constant instead of duplicating this literal "content-type" 12 times.(È§‚‘şÿÿÿÿ8ÎàØ…Á.
+^	java:S125…"<This block of commented-out lines of code should be removed.(ÏøŠÿşÿÿÿÿ8ÎàØ…Á.
+=
+java:S1659" Declare "a5" on a separate line.(İÀ®‡8ÎàØ…Á.
+>
+java:S1659"!Declare "a14" on a separate line.(İÀ®‡8ÎàØ…Á.
+[	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ÊÆ™’ûÿÿÿÿ8ÎàØ…Á.
+=
+java:S1659" Declare "a9" on a separate line.(İÀ®‡8ÎàØ…Á.
+t
+java:S1192s"RDefine a constant instead of duplicating this literal "application/json" 12 times.(È§‚‘şÿÿÿÿ8ÎàØ…Á.
+[	java:S106ğ"9Replace this use of System.out or System.err by a logger.(…ı¦«üÿÿÿÿ8ÎàØ…Á.
+X
+java:S1141è"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎàØ…Á.
+^	java:S125™"<This block of commented-out lines of code should be removed.(Üÿ©ìúÿÿÿÿ8ÎàØ…Á.
+f
+java:S2095²"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(°‡œá8ÎàØ…Á.

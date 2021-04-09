@@ -1,0 +1,88 @@
+
+n
+java:S1192İ"PDefine a constant instead of duplicating this literal "Request Timeout" 3 times.(…šÇù8ì™‹Á.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëÅ’Şüÿÿÿÿ8ì™‹Á.
+t
+java:S1450%"WRemove the "countsum" field and declare it as a local variable in the relevant methods.(ÊÇûµ8ì™‹Á.
+Z
+java:S2629 "7Use the built-in formatting to construct this argument.(×Ë’Îıÿÿÿÿ8ïÉ»Á.
+F
+java:S1481—"(Remove this unused "exc" local variable.(à8ÈëÕÁ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ëÅ’Şüÿÿÿÿ8ïø¬ŒÁ.
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(†–£„ıÿÿÿÿ8ì™‹Á.
+u
+java:S1192Â"WDefine a constant instead of duplicating this literal "Daily Automation Suite" 3 times.(Ã±íÚ8ì™‹Á.
+U
+java:S2629¥"7Use the built-in formatting to construct this argument.(Š¶´Ã8‡º¶Á.
+p
+java:S1192"MDefine a constant instead of duplicating this literal "content-type" 3 times.(†™Ş»ıÿÿÿÿ8ì™‹Á.
+U
+java:S1854—"7Remove this useless assignment to local variable "exc".(à8ÈëÕÁ.
+F
+java:S1481²"(Remove this unused "exc" local variable.(à8ÈëÕÁ.
+t
+java:S1192"QDefine a constant instead of duplicating this literal "application/json" 3 times.(†™Ş»ıÿÿÿÿ8ì™‹Á.
+Z
+java:S2629§"7Use the built-in formatting to construct this argument.(ßöÖèùÿÿÿÿ8ƒ‚¹Á.
+n
+java:S1450*"SRemove the "ukey" field and declare it as a local variable in the relevant methods.(ªİÅÃşÿÿÿÿ
+k
+java:S2095¨"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ôÒÚêùÿÿÿÿ8ì™‹Á.
+[	java:S106½"9Replace this use of System.out or System.err by a logger.(ÊÆ™’ûÿÿÿÿ8ì™‹Á.
+U
+java:S2629ª"7Use the built-in formatting to construct this argument.(ÅØŠ8¨ÏºÁ.
+h
+java:S1192}"KDefine a constant instead of duplicating this literal "yyyy-dd-MM" 3 times.(©„’“8ì™‹Á.
+X
+java:S1141ı"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ì™‹Á.
+Q
+java:S1481 ".Remove this unused "response1" local variable.(êÙŞ¿üÿÿÿÿ8ì™‹Á.
+w
+java:S1450"URemove the "count2" field and declare it as a local variable in the relevant methods.(óûÂüÿÿÿÿ8ì™‹Á.
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Ë›–ÿ8ÈëÕÁ.
+F
+java:S1481Û"(Remove this unused "exc" local variable.(à8ì™‹Á.
+X
+java:S1141¤"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ì™‹Á.
+f
+java:S2095_"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(Ü÷Ò˜8ì™‹Á.
+U
+java:S1854Û"7Remove this useless assignment to local variable "exc".(à8ì™‹Á.
+X	java:S125á"<This block of commented-out lines of code should be removed.(ä§ 8ÈëÕÁ.
+w
+java:S1192Ê"TDefine a constant instead of duplicating this literal "Response Time Issue" 3 times.(Ùµüİúÿÿÿÿ8ì™‹Á.
+U
+java:S2629ï"7Use the built-in formatting to construct this argument.(âû²8âê½Á.
+Z
+java:S2629¨"7Use the built-in formatting to construct this argument.(™´ìŸÿÿÿÿÿ8£²ºÁ.
+g
+java:S1192‚"IDefine a constant instead of duplicating this literal "hh.mm aa" 3 times.(»—×Å8ì™‹Á.
+n
+java:S2095J"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ8ì™‹Á.
+X
+java:S1141–"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ì™‹Á.
+U
+java:S1854²"7Remove this useless assignment to local variable "exc".(à8ÈëÕÁ.
+t
+java:S3776U"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ïÈƒıûÿÿÿÿ8ì™‹Á.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(›ç¨É8ì™‹Á.
+n
+java:S1192Ó"PDefine a constant instead of duplicating this literal "Zero data issue" 3 times.(ï©†‘8ì™‹Á.
+N
+java:S1481W"1Remove this unused "postRequests" local variable.(ƒ§•â8ì™‹Á.
+m
+java:S1192·"JDefine a constant instead of duplicating this literal "errortype" 3 times.(õÂÿğÿÿÿÿÿ8ì™‹Á.
+]
+java:S1854W"@Remove this useless assignment to local variable "postRequests".(ƒ§•â8ì™‹Á.
+`
+java:S1854 "=Remove this useless assignment to local variable "response1".(êÙŞ¿üÿÿÿÿ8ì™‹Á.
+]	java:S1258"<This block of commented-out lines of code should be removed.(ÕÚ¿şÿÿÿÿ8ì™‹Á.
+s
+java:S1450)"VRemove the "count12" field and declare it as a local variable in the relevant methods.(Ú«Ğ÷8ì™‹Á.
+X
+java:S1141×"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÈëÕÁ.
+J
+java:S1068*"(Remove this unused "ukey" private field.(ªİÅÃşÿÿÿÿ8ì™‹Á.
+Z
+java:S2629•"7Use the built-in formatting to construct this argument.(ïàÿÿÿÿÿ8·ÂäÂ.

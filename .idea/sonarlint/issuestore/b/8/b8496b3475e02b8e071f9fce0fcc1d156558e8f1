@@ -1,0 +1,129 @@
+
+V
+java:S1854ä"?Remove this useless assignment to local variable "myResponse7".(¬äéé
+O	java:S106Û"9Replace this use of System.out or System.err by a logger.(÷ ÷‡
+W	java:S125¼"<This block of commented-out lines of code should be removed.(ý°À¨üÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(Üÿ©ìúÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(°îÕâþÿÿÿÿ
+Q	java:S125."<This block of commented-out lines of code should be removed.(§ÚÊú
+?
+java:S1659"$Declare "count6" on a separate line.(¢ˆŒìþÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(ÊÆ™’ûÿÿÿÿ
+f
+java:S1192±"JDefine a constant instead of duplicating this literal "errortype" 3 times.(õÂÿðÿÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Ë›–ÿ
+L
+java:S1481§"0Remove this unused "myResponse3" local variable.(áÞí‹þÿÿÿÿ
+[	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(¹žÇÎ
+V
+java:S1854‡"?Remove this useless assignment to local variable "myResponse5".(¡›Ø¡
+[
+java:S1854L"@Remove this useless assignment to local variable "postRequests".(ö×Öûÿÿÿÿ
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(»¡£ì
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(…ý¦«üÿÿÿÿ
+Y
+java:S1854—"=Remove this useless assignment to local variable "response1".(êÙÞ¿üÿÿÿÿ
+?
+java:S1481Ú"(Remove this unused "exc" local variable.(à
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¸Ãß‘øÿÿÿÿ
+?
+java:S1659"$Declare "count7" on a separate line.(¢ˆŒìþÿÿÿÿ
+A
+java:S1481&"+Remove this unused "entity" local variable.(ìó¥°
+?
+java:S1659"$Declare "count2" on a separate line.(¢ˆŒìþÿÿÿÿ
+=
+java:S1659""Declare "ukey" on a separate line.(„»…åüÿÿÿÿ
+Q
+java:S1141Ú"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+A
+java:S1659"&Declare "countsum" on a separate line.(¢ˆŒìþÿÿÿÿ
+P
+java:S1854&":Remove this useless assignment to local variable "entity".(ìó¥°
+@
+java:S1659"%Declare "count12" on a separate line.(¢ˆŒìþÿÿÿÿ
+N
+java:S1854´"7Remove this useless assignment to local variable "exc".(à
+g
+java:S2095?"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ
+d
+java:S2095Ÿ"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ôÒÚêùÿÿÿÿ
+@
+java:S1659"%Declare "count11" on a separate line.(¢ˆŒìþÿÿÿÿ
+?
+java:S1659"$Declare "count9" on a separate line.(¢ˆŒìþÿÿÿÿ
+N
+java:S1854Ú"7Remove this useless assignment to local variable "exc".(à
+G
+java:S1481‡"0Remove this unused "myResponse5" local variable.(¡›Ø¡
+W	java:S125Š"<This block of commented-out lines of code should be removed.(ÏøŠÿþÿÿÿÿ
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(³–ýúÿÿÿÿ
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(îÎÉ˜ÿÿÿÿÿ
+@
+java:S1659"%Declare "count10" on a separate line.(¢ˆŒìþÿÿÿÿ
+?
+java:S1659"$Declare "count1" on a separate line.(¢ˆŒìþÿÿÿÿ
+m
+java:S1192†"QDefine a constant instead of duplicating this literal "application/json" 3 times.(†™Þ»ýÿÿÿÿ
+?
+java:S1659"$Declare "count8" on a separate line.(¢ˆŒìþÿÿÿÿ
+J
+java:S1481—".Remove this unused "response1" local variable.(êÙÞ¿üÿÿÿÿ
+_
+java:S1192x"IDefine a constant instead of duplicating this literal "hh.mm aa" 3 times.(»—×Å
+G
+java:S1481ä"0Remove this unused "myResponse7" local variable.(¬äéé
+h
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(¹žÇÎ
+[
+java:S1854§"?Remove this useless assignment to local variable "myResponse3".(áÞí‹þÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(Üÿ©ìúÿÿÿÿ
+n
+java:S1192Á"WDefine a constant instead of duplicating this literal "Daily Automation Suite" 3 times.(Ã±íÚ
+V	java:S125O"<This block of commented-out lines of code should be removed.(¯êìüýÿÿÿÿ
+W	java:S125º"<This block of commented-out lines of code should be removed.(‘©žÂÿÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(ÏøŠÿþÿÿÿÿ
+_
+java:S2095U"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ù˜­œ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(Üÿ©ìúÿÿÿÿ
+p
+java:S1192É"TDefine a constant instead of duplicating this literal "Response Time Issue" 3 times.(ÙµüÝúÿÿÿÿ
+a
+java:S1192s"KDefine a constant instead of duplicating this literal "yyyy-dd-MM" 3 times.(©„’“
+P
+java:S1118":Add a private constructor to hide the implicit public one.(›ãô‚
+Q
+java:S1141ý"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(¾¯¯ö
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(ââš˜
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+O	java:S106ó"9Replace this use of System.out or System.err by a logger.(âªó½
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(èëû§
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(â¼‘šùÿÿÿÿ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÊæÎžùÿÿÿÿ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(ÏøŠÿþÿÿÿÿ
+?
+java:S1481´"(Remove this unused "exc" local variable.(à
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›ãô‚
+V	java:S1255"<This block of commented-out lines of code should be removed.(Êó¾¯úÿÿÿÿ
+N
+java:S1854›"7Remove this useless assignment to local variable "exc".(à
+L
+java:S1481L"1Remove this unused "postRequests" local variable.(ö×Öûÿÿÿÿ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(†–£„ýÿÿÿÿ
+?
+java:S1481›"(Remove this unused "exc" local variable.(à
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(ó÷ºúøÿÿÿÿ
+Q
+java:S1141›"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(›ç¨É
+g
+java:S1192Ò"PDefine a constant instead of duplicating this literal "Zero data issue" 3 times.(ï©†‘
+g
+java:S1192Ü"PDefine a constant instead of duplicating this literal "Request Timeout" 3 times.(…šÇù
+?
+java:S1659"$Declare "count5" on a separate line.(¢ˆŒìþÿÿÿÿ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(„¦–Õüÿÿÿÿ
+i
+java:S1192†"MDefine a constant instead of duplicating this literal "content-type" 3 times.(†™Þ»ýÿÿÿÿ

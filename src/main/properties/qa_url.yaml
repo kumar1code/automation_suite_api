@@ -1,0 +1,13 @@
+{
+  transerrors_url: 'http://uscdc01tljdv003.globalservices.bcdtravel.local:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getTransErrors/1/2',
+  pagination_url: 'http://uscdc01tljdv003.globalservices.bcdtravel.local:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getAllTransErrorsWithPagination/1/5',
+  getAllErrorFieldsForGrp_url: 'http://uscdc01tljdv003.globalservices.bcdtravel.local:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getAllErrorFieldsForGrp',
+  getTransErrorsCount_url: 'http://uscdc01tljdv003.globalservices.bcdtravel.local:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getTransErrorsCount',
+  getFilteredTransErrors_url: 'http://uscdc01tljdv003.globalservices.bcdtravel.local:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getFilteredTransErrors/1/2',
+  getInvoice_url: 'http://uscdc01tljdv003.globalservices.bcdtravel.local:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getInvoice/G3GB0510201710536393191284480HR100462GB490047766610886570',
+  postTransSubmitCorrection_url: 'http://uscdc01tljdv003.globalservices.bcdtravel.local:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/postTransSubmitCorrection',
+  updateBulkCorrectWithFilterGrp_url: 'http://uscdc01tljdv003.globalservices.bcdtravel.local:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/updateBulkCorrectWithFilterGrp',
+  updateBulkIgnoreWithFilterGrp_url: 'http://uscdc01tljdv003.globalservices.bcdtravel.local:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/updateBulkIgnoreWithFilterGrp'
+
+}
+

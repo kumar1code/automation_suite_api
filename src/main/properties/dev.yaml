@@ -1,0 +1,22 @@
+{
+  transerrors_source: 'C:\API\Requests\getTransErrors.txt',
+  pagination_source: 'C:\API\Requests\pagination.txt',
+  getAllErrorFieldsForGrp_source: 'C:\API\Requests\getAllErrorFieldsForGrp.txt',
+  getTransErrorsCount_source: 'C:\API\Requests\getTransErrorsCount.txt',
+  getFilteredTransErrors_source: 'C:\API\Requests\getFilteredTransErrors.txt',
+  updateBulkCorrectWithFilterGrp_source: 'C:\API\Requests\updateBulkCorrectWithFilterGrp.txt',
+  updateBulkIgnoreWithFilterGrp_source: 'C:\API\Requests\updateBulkIgnoreWithFilterGrp.txt',
+  transerrors_destination: 'C:\API\Dev\Responses\getTransErrors_dev',
+  pagination_destination: 'C:\API\Dev\Responses\pagination_dev',
+  getAllErrorFieldsForGrp_destination: 'C:\API\Dev\Responses\getAllErrorFieldsForGrp_dev',
+  getTransErrorsCount_destination: 'C:\API\Dev\Responses\getTransErrorsCount_dev',
+  getFilteredTransErrors_destination: 'C:\API\Dev\Responses\getFilteredTransErrors_dev',
+  updateBulkCorrectWithFilterGrp_destination: 'C:\API\Dev\Responses\updateBulkCorrectWithFilterGrp_dev',
+  updateBulkIgnoreWithFilterGrp_destination: 'C:\API\Dev\Responses\updateBulkIgnoreWithFilterGrp_dev',
+  transerrors_request: '{"include":[{"globalclientcd":["4420","3190"]}],"includeCriticalErrors":"1"}',
+  getAllErrorFieldsForGrp_request: '{"include":[{"dataid":["IV"]}],"exclude":[],"includeCriticalErrors":"1","filter":[],"group":{"name":"globalclientcd","value":"1052"}}',
+  getTransErrorsCount_request : '{"groups":[{"groupId":"admin2","include":[{"dataid": ["BE"],"globalclientcd": ["1003"]}],"exclude":[{"dataid": ["IC"],"globalclientcd": ["1234"]}],"includeCriticalErrors": "1"}]}',
+  pagination_request: '{"groupId":"eX_dataid_In_rest_0","include":[{"globalclientcd":["2007"]}],"includeCriticalErrors":"0"}',
+  getFilteredTransErrors_request : '{"include":[{"globalclientcd":["1003"]}],"exclude":[{"dataid":["IN"]}],"includeCriticalErrors":"1","filter":[{"column":"globalclientname","value":"MARSH & MCLELLAN COMPANIES (MMC)"}],"order":{"column":"errorDesc","value":"asc"},"combined":{"column":"errorType"}}'
+
+}

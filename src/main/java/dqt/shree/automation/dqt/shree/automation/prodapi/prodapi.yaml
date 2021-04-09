@@ -1,0 +1,13 @@
+{
+  transerrors_url: 'http://dataselfservice.bcdtravel.com:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getTransErrors/1/2',
+  pagination_url: 'http://dataselfservice.bcdtravel.com:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getAllTransErrorsWithPagination/1/2',
+  getAllErrorFieldsForGrp_url: 'http://dataselfservice.bcdtravel.com:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getAllErrorFieldsForGrp',
+  getTransErrorsCount_url: 'http://dataselfservice.bcdtravel.com:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getTransErrorsCount',
+  getFilteredTransErrors_url: 'http://dataselfservice.bcdtravel.com:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getFilteredTransErrors/1/500',
+  getInvoice_url: 'http://dataselfservice.bcdtravel.com:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/getInvoice/20190708CAIC1830271681',
+  postTransSubmitCorrection_url: 'http://dataselfservice.bcdtravel.com:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/postTransSubmitCorrection',
+  updateBulkCorrectWithFilterGrp_url: 'http://dataselfservice.bcdtravel.com:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/updateBulkCorrectWithFilterGrp',
+  updateBulkIgnoreWithFilterGrp_url: 'http://dataselfservice.bcdtravel.com:8080//DQTAPIProject-0.0.1-SNAPSHOT/InvApi/updateBulkIgnoreWithFilterGrp'
+
+}
+
